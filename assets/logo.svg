@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" role="img" aria-label="gangaclub logo">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#e11d2e"/><stop offset="1" stop-color="#ff4d5e"/></linearGradient></defs>
+<g><rect x="4" y="10" width="40" height="40" rx="10" fill="url(#g)"/>
+<path d="M14 30 L24 22 L24 28 L34 28 L34 32 L24 32 L24 38 Z" fill="#fff"/>
+<text x="56" y="38" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="26" fill="#111">ganga<tspan fill="#e11d2e">club</tspan></text></g></svg>
